@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539253371336",
+    "project_id": "minimal-social-app-78869",
+    "storage_bucket": "minimal-social-app-78869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539253371336:android:dd800cebc2a2fd28e3d0fd",
+        "android_client_info": {
+          "package_name": "com.example.flutterauthfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZjrV5-Rmtgf5r7AluJ6NNd5YnueGupc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
